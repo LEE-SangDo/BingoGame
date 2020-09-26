@@ -21,5 +21,8 @@
     <ClCompile Include="BingoGame2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BingoGame_AI_Easymode.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
